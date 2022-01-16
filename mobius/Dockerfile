@@ -1,5 +1,5 @@
 # 1. ubuntu 설치
-FROM       ubuntu:16.04
+FROM       ubuntu:18.04
 MAINTAINER seunghwanly@gmail.com
 
 RUN apt-get clean
